@@ -1,0 +1,7 @@
+C:\Users\320087405\source\repos\review-case-s21b13\SenderFile\obj\Debug\SenderFile.csproj.CoreCompileInputs.cache
+C:\Users\320087405\source\repos\review-case-s21b13\SenderFile\bin\Debug\SenderFile.exe.config
+C:\Users\320087405\source\repos\review-case-s21b13\SenderFile\bin\Debug\SenderFile.exe
+C:\Users\320087405\source\repos\review-case-s21b13\SenderFile\bin\Debug\SenderFile.pdb
+C:\Users\320087405\source\repos\review-case-s21b13\SenderFile\obj\Debug\SenderFile.exe
+C:\Users\320087405\source\repos\review-case-s21b13\SenderFile\obj\Debug\SenderFile.pdb
+C:\Users\320087405\source\repos\review-case-s21b13\SenderFile\obj\Debug\SenderFile.csprojAssemblyReference.cache
