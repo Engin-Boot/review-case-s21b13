@@ -1,0 +1,7 @@
+C:\Users\320087405\source\repos\review-case-s21b13\ReceiverModule\obj\Debug\ReceiverModule.csprojAssemblyReference.cache
+C:\Users\320087405\source\repos\review-case-s21b13\ReceiverModule\obj\Debug\ReceiverModule.csproj.CoreCompileInputs.cache
+C:\Users\320087405\source\repos\review-case-s21b13\ReceiverModule\bin\Debug\ReceiverModule.exe.config
+C:\Users\320087405\source\repos\review-case-s21b13\ReceiverModule\bin\Debug\ReceiverModule.exe
+C:\Users\320087405\source\repos\review-case-s21b13\ReceiverModule\bin\Debug\ReceiverModule.pdb
+C:\Users\320087405\source\repos\review-case-s21b13\ReceiverModule\obj\Debug\ReceiverModule.exe
+C:\Users\320087405\source\repos\review-case-s21b13\ReceiverModule\obj\Debug\ReceiverModule.pdb
