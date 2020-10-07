@@ -9,7 +9,7 @@ namespace ReceiverModule
 {
     public class WritingToCSVFile
     {
-        public static void RedirectingToCsvFile(Dictionary<String, int> _wordAndWordFrequency)
+        public static bool RedirectingToCsvFile(Dictionary<String, int> _wordAndWordFrequency)
         {
             try
             {
@@ -21,10 +21,12 @@ namespace ReceiverModule
                     }
                 }
                 Console.WriteLine("Writting To File Successfull");
+                return true;
             }
             catch (Exception e)
             {
                 Console.WriteLine("Error during Writting To File: " + e);
+                return false;
             }
 
         }
